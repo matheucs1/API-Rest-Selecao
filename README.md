@@ -1,5 +1,5 @@
 # Estudos
-## API nodejs feita na aula do porfesso Edson Maia
+## API Nodejs feita na aula do porfesso Edson Maia
 
 ### https://github.com/edsonmaia
 #### https://www.youtube.com/playlist?list=PLnex8IkmReXwCyR-cGkyy8tCVAW7fGZow
